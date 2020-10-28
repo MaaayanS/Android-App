@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/add_location"
+            android:icon="@drawable/ic_add_location"
+            android:title="@string/My_location" />
+        <item
+            android:id="@+id/info_us"
+            android:icon="@drawable/ic_info"
+            android:title="@string/about_us_titel" />
+        <item
+            android:id="@+id/deliver"
+            android:icon="@drawable/ic_deliver"
+            android:title="@string/Deliver" />
+        <item
+            android:id="@+id/history_parcel"
+            android:icon="@drawable/ic_history_parcels"
+            android:title="@string/History_parcel" />
+
+    </group>
+</menu>

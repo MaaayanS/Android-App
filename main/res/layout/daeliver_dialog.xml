@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/xButton"
+        android:layout_width="55dp"
+        android:layout_height="45dp"
+        android:drawableBottom="@drawable/ic_close"
+        android:textColor="#A21444" />
+
+    <EditText
+        android:id="@+id/editText12"
+        android:layout_width="396dp"
+        android:layout_height="76dp"
+        android:autofillHints="kuku"
+        android:ems="10"
+        android:hint="@string/YYYY"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/editTextDeliverName"
+        android:layout_width="400dp"
+        android:layout_height="76dp"
+        android:ems="10"
+        android:hint="@string/enter_deliver_name"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editTextDeliverPhone"
+        android:layout_width="400dp"
+        android:layout_height="76dp"
+        android:autofillHints="kuku"
+        android:ems="10"
+        android:hint="@string/enter_deliver_phone_number" />
+    android:inputType="number|text" />
+
+    <Button
+        android:id="@+id/buttonNisayon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Sign_up"
+        android:textColor="#A21444" />
+
+
+</LinearLayout>

@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="package_type">package type:</string>
+    <string name="is_fragile">is fragile:</string>
+    <string name="package_waight">package waight:</string>
+    <string name="package_location">package location:</string>
+    <string name="delivery_date">delivery date:</string>
+    <string name="email">email:</string>
+    <string name="status">status:</string>
+    <string name="owner_name">owner name:</string>
+    <string name="owner_address">owner address:</string>
+    <string name="city">city:</string>
+    <string name="street">street:</string>
+    <string name="number">number:</string>
+    <string name="owner_phone_num">owner phone num:</string>
+    <string name="deliver_name">deliver name:</string>
+    <string name="empty"></string>
+    <string name="waight">waight:</string>
+    <string name="DD">DD</string>
+    <string name="MM">MM</string>
+    <string name="YYYY">YYYY</string>
+    <string name="SAVE">SAVE</string>
+    <string name="historyparchel">HistoryParchel</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="Enter_your_package_details">Enter your package details:</string>
+    <string name="find_my_location">find my location</string>
+    <string name="add_packeg">add packeg</string>
+    <string name="deliver_packeg">deliver packeg</string>
+    <string name="your_location">your location</string>
+    <string name="parcel_id">parcel ID:</string>
+    <string name="My_location">My location</string>
+    <string name="Add_parcel">Add parcel</string>
+    <string name="Deliver">Deliver</string>
+    <string name="History_parcel">History parcel</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="about_us_titel">About us</string>
+    <string name="about_us">Welcome to our app,\n
+ Through this app, we will make a revolution in Israel’s mail.\n
+Our app is used to enter packages that we want to send across the country. In addition, people traveling in the country can enter and register as package carriers. All uses of the app are free and it is a social app.\n
+
+Enjoy the use,\n
+Shoshana and Maayan</string>
+    <string name="welcom">\n\n Welcome to the quick parcel delivery app\n\n
+        -If you want to send a package please sign in to "My location"\n\n
+        -If you want to be a deliver please sign in to "Deliver"
+    </string>
+    <string name="Update">Update</string>
+    <string name="Sign_up">Sign up</string>
+    <string name="enter_deliver_name">deliver name</string>
+    <string name="enter_deliver_phone_number">deliver phone number</string>
+    <string name="X">X</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phonPattern">05X XXX XXXX</string>
+    <string name="DDB">Dashtt Distribution Business</string>
+
+
+</resources>
